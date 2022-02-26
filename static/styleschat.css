@@ -1,0 +1,16 @@
+#chatinbox {
+
+    height: 90%;
+    position: absolute;
+    /* margin: 9%; */
+    width: 90%;
+    overflow: scroll;
+
+}
+
+#inputchat {
+
+    position: absolute;
+    bottom: 5px;
+    width: 90%;
+}
